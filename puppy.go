@@ -1,7 +1,5 @@
 package puppy
 
-//commment
-
 import (
 	"github.com/Ken501/dog"
 )
